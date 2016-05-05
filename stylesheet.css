@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+ list-style: none;
+}
+
+/*map div styling*/
+#garnet-location {
+ width: 500px;
+ height: 500px;
+ margin: 10px;
+}
+
+#error {
+ color: red;
+}
+
+
